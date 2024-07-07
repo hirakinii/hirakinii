@@ -10,7 +10,7 @@
 - 🧑‍💻 I'm a project researcher about data management and data governance.
 - 🌱 I’m currently learning Rust!
 - 📫 How to reach me:
-  - [researchmap](https://researchmap.jp/toshiyukinh)
+  - [researchmap](https://researchmap.jp/toshiyukinh?lang=en)
   - [Linkedin](https://www.linkedin.com/in/toshiyuki-hiraki-5518b1205/)
 <br>
 
